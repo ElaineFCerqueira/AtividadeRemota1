@@ -1,8 +1,8 @@
-let quantidadePeca = 8 // A Quantidade de peças não pode ser maior que 10
+let quantidadePeca = 30 // A Quantidade de peças não pode ser maior que 10
 let pesoPeca = 200 // O peso deve ser maior que 100g
 let nomePeca = "Polia" // O tamanho do nome deve ser maior que 2 caracteres
 
-if (quantidadePeca < 7) {
+if (quantidadePeca < 20) {
     console.log ("Quantidade de peça dentro do esperado. O produto do ser cadastrado")
 
     if (pesoPeca >= 100) {
